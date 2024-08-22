@@ -1,7 +1,3 @@
-To add logos for programming languages, you can use icons from sites like [Simple Icons](https://simpleicons.org/) or GitHub's own Octicons. Here's how you can update the README with logos:
-
----
-
 ### Hi there, I'm Reza! 👋
 
 I'm a passionate student and web developer with a strong focus on **PHP**, **HTML**, and **CSS**. I'm on a journey to master the art of crafting beautiful, responsive, and efficient websites.
